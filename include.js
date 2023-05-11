@@ -13,6 +13,7 @@ let cards = [
     author: "Arjunan K",
     githubLink: "https://github.com/arjunan-k",
   },
+  
   {
     artName: "Shakerdl",
     pageLink: "./Art/Joy/shakerdl/index.html",
@@ -6526,6 +6527,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'Pichenka',
+    pageLink: './Art/Pichenka/index.html',
+    imageLink: './Art/Pichenka/trance.gif',
+    author: 'Alina',
+    githubLink: 'https://github.com/AlinaShevelev'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
